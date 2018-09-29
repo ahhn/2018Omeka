@@ -8,54 +8,94 @@ Offered at 한국외국어대학교 Fall 2018
 
 학습 결과: Omeka로 만들어진 디지털 아카이브 사이트를 갖게 됩니다.
 
- 
+**강의자료**
+[강의자료1. 오픈소스 소프트웨어 개요](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+[강의자료2. 아카이브 소개](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+[강의자료3. Omeka 동향과 활용](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
+[강의자료4. Omeka v2.6.1 설치 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
+
 ## Week 1. Omeka & OSS & AWS & GitHub
 
-September, 2018
+1. 오픈소스 소프트웨어(OSS) 개요
+2. 아카이브 개요
+3. Omeka 동향과 활용
+4. 실습: Omeka.net
+5. 과제 안내
 
-[1강. Omeka 개요](https://ahhn.github.io/2018Omeka/lecture1)
+## Week 2. Omeka 설치
 
-작성 중
-
-[2강. OSS & AWS & GitHub](https://ahhn.github.io/2018Omeka/lecture2)
-
-오픈소스 소프트웨어(OSS) 개요
-
-AWS를 이용한 클라우드 서버 구축
+1. AWS를 이용한 클라우드 서버 구축
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
 - 리눅스 명령어 실습
 
-GitHub
+2. Omeka 설치
+
+3. Filezilla 설치
+
+4. GitHub
 - GitHub 소개
 - GitHub 리포지터리 만들기
 - GitHub 실습
-- 과제 안내
 
-## Week 2. Omeka 설치 및 실습
+## Week 3. Omeka 실습 & 주제 발표
+1. Omeka 실습 : 
+- Settings
+- Themes
+- Plugins
+- Items & Collections
+- Exhibitions
 
-October, 2018
+2. 아카이빙 주제 발표
 
-[3강. Omeka 설치 및 실습](https://ahhn.github.io/2018Omeka/lecture3)
+## Week 4.Omeka: Plugins I
+- CSV Import
+- Blog Shortcode
+- Bulk Metadata editor
+- COinS
+- Collection Tree
+- Commenting
+- Connected Carousel
+- Contribution
+- Contributor Contact
+- Corrections
+- CSV Export Format
 
-- AWS에 AtoM 설치하고 기록물 등록하기
+## Week 5.Omeka: Plugins II
+- Derivative Images
+- Docs Viewer
+- Elasticsearch
+- Element Type
+- Embed Codes
+- Exhibit Image Annotation
+- Geolocation
+- Guest User
+- Heist
+- Hide Elements
+- History Log
+- HTML5 Media
 
-## Week 3. Omeka 설치 및 실습
+## Week 6.Omeka: Plugins III
+- Item Order
+- Item Relations
+- Neatline
+- Posters
+- Reports
+- Scripto
 
-October, 2018
+## Week 7.Omeka: Plugins IV
+Plugins IV
 
-[4강. Omeka 설치 및 실습](https://ahhn.github.io/oss/lecture4)
-- AWS에 Omeka 설치하고 전시 구성하기
+## Week 8.Omeka: Plugins V
+AvantRelationships
 
-## Week 4.
-## Week 5.
-## Week 6.
-## Week 7.
-## Week 8.
-## Week 9.
-## Week 10.
-## Week 11.
-## Week 12.
+## Week 8.Omeka: Plugins VI
+Ngram
+Text Analysis
+
+## Week 10.발표 I
+## Week 11.발표 II
+## Week 12.발표 III
 
 
 ## Further Reading
