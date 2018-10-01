@@ -20,24 +20,36 @@ Offered at 한국외국어대학교 Fall 2018
 
 ## Week 1. Omeka & OSS & AWS & GitHub
 
-1. 오픈소스 소프트웨어(OSS) 개요
-2. 아카이브 개요
-3. Omeka 동향과 활용
-4. 실습: Omeka.net
-5. 과제 안내
+1. 오픈소스 소프트웨어(OSS) 개요 (강의자료1)
+2. 아카이브 개요 (강의자료2)
+3. Omeka 동향과 활용 (강의자료3)
+4. 과제 안내
+4.1 Omeka 사례 분석 
+- [Omeka Classic Directory](https://omeka.org/classic/directory/)
+- [Omeka Classic Showcase](https://omeka.org/classic/showcase/)
+- [아카이브랩](http://archivelab.co.kr)
+
+4.2 아카이빙 주제 정하기
+아카이빙 계획서 작성방법
+
+**토론.**
+- 아키비스트로서의 예술가
+- 왜 Omeka를 써야 하나
 
 ## Week 2. Omeka 설치
 
-1. AWS를 이용한 클라우드 서버 구축
+1. 실습: Omeka.net 
+
+2. AWS를 이용한 클라우드 서버 구축
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
 - 리눅스 명령어 실습
 
-2. Omeka 설치
+3. Omeka 설치
 
-3. Filezilla 설치
+4. Filezilla 설치
 
-4. GitHub
+5. GitHub
 - GitHub 소개
 - GitHub 리포지터리 만들기
 - GitHub 실습
@@ -50,9 +62,10 @@ Offered at 한국외국어대학교 Fall 2018
 - Items & Collections
 - Exhibitions
 
-2. 아카이빙 주제 발표
+2. Omeka 사례와 아카이빙 주제 발표 I
 
 ## Week 4.Omeka: Plugins I
+1. Omeka 실습 : 
 - CSV Import
 - Blog Shortcode
 - Bulk Metadata editor
@@ -64,6 +77,9 @@ Offered at 한국외국어대학교 Fall 2018
 - Contributor Contact
 - Corrections
 - CSV Export Format
+
+2. Omeka 사례와 아카이빙 주제 발표 II
+
 
 ## Week 5.Omeka: Plugins II
 - Derivative Images
@@ -92,10 +108,11 @@ Plugins IV
 
 ## Week 8.Omeka: Plugins V
 AvantRelationships
-
-## Week 9.Omeka: Plugins VI
 Ngram
 Text Analysis
+
+## Week 9.Omeka: Curatescape
+Curatescape 설치와 활용
 
 ## Week 10.발표 I
 ## Week 11.발표 II
