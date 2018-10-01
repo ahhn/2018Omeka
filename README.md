@@ -9,6 +9,7 @@ Offered at 한국외국어대학교 Fall 2018
 학습 결과: Omeka로 만들어진 디지털 아카이브 사이트를 갖게 됩니다.
 
 **강의자료**
+
 [강의자료1. 오픈소스 소프트웨어 개요](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
 
 [강의자료2. 아카이브 소개](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
