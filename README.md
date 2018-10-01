@@ -10,8 +10,11 @@ Offered at 한국외국어대학교 Fall 2018
 
 **강의자료**
 [강의자료1. 오픈소스 소프트웨어 개요](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+
 [강의자료2. 아카이브 소개](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+
 [강의자료3. Omeka 동향과 활용](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
+
 [강의자료4. Omeka v2.6.1 설치 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
 
 ## Week 1. Omeka & OSS & AWS & GitHub
@@ -89,13 +92,14 @@ Plugins IV
 ## Week 8.Omeka: Plugins V
 AvantRelationships
 
-## Week 8.Omeka: Plugins VI
+## Week 9.Omeka: Plugins VI
 Ngram
 Text Analysis
 
 ## Week 10.발표 I
 ## Week 11.발표 II
 ## Week 12.발표 III
+## Week 13.발표 평가와 토론
 
 
 ## Further Reading
