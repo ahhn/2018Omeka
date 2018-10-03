@@ -52,10 +52,11 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 범위와 목적 : 해당 주제의 시간/공간/내용적 범위, 아카이빙을 통해 이루고자 하는 목적
 - 컬렉션 구성(영역별 수집대상) : 수집할 컬렉션 영역을 3~5개 정하고 컬렉션별로 대표적 기록을 나열
 
-- [아카이빙계획서 샘플1](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample01_WH.pdf)
-- [아카이빙계획서 샘플2](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample02_Superman.pdf)
-- [아카이빙계획서 샘플3](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample03_vongvong.pdf)
-- [아카이빙계획서 샘플4](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample04_Ambience.pdf)
+아카이빙 계획서 샘플
+- [대학그룹사운드](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample01_WH.pdf)
+- [슈퍼맨](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample02_Superman.pdf)
+- [봉봉](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample03_vongvong.pdf)
+- [일상의 앰비언스](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample04_Ambience.pdf)
 
 일정
 
@@ -64,7 +65,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 10/22 : 김o미, 민o수, 송o수, 임o진, 정o진
 
 2) 아카이빙 결과 발표(20분)
-- 12/03 : 김o미, 민o수, 송o수, 임o진, 정o진
+- 12/3 : 김o미, 민o수, 송o수, 임o진, 정o진
 - 12/10 : 김o솔, 김o현, 박o은, 박o현, 심o영
 
 
