@@ -18,25 +18,65 @@ Offered at 한국외국어대학교 Fall 2018
 
 [강의자료4. Omeka v2.6.1 설치 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
 
-## Week 1. Omeka & OSS & AWS & GitHub
+## Week 1. Omeka & OSS (10/1)
 
 1. 오픈소스 소프트웨어(OSS) 개요 (강의자료1)
 2. 아카이브 개요 (강의자료2)
 3. Omeka 동향과 활용 (강의자료3)
-4. 과제 안내
-4.1 Omeka 사례 분석 
+
+### 4. 과제 안내 ### 
+
+**4.1 Omeka 사례 분석**
+Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
+- 아카이브 개요(언제, 누가, 왜 만들었는지)
+- 주요 컬렉션
+- 장단점
+
+아래 사이트 참고
 - [Omeka Classic Directory](https://omeka.org/classic/directory/)
 - [Omeka Classic Showcase](https://omeka.org/classic/showcase/)
 - [아카이브랩](http://archivelab.co.kr)
 
-4.2 아카이빙 주제 정하기
+발표일정
+- 10/15 : 김o솔, 김o현, 박o은, 박o현, 심o영
+- 10/22 : 김o미, 민o수, 송o수, 임o진, 정o진
+
+참고사항
+- 10/8까지 주제명을 강사에게 제출
+- 문자메시지 또는 이메일(djahhn@gmail.com)
+
+
+**4.2 나의 아카이브 만들기**
+하나의 주제를 정하여 기록을 모으고 Omeka 사이트로 만들기
+순서 : 아카이빙 계획서 작성 > 기록수집 > Omeka 등록/기술 > 전시 구성
+
 아카이빙 계획서 작성방법
+- 개요 : 아카이빙할 주제에 대한 간단한 에세이(배경, 의미 등)
+- 키워드 : 해당 주제와 관련된 키워드 나열(문헌, 연구사례 등을 참고)
+- 범위와 목적 : 해당 주제의 시간/공간/내용적 범위, 아카이빙을 통해 이루고자 하는 목적
+- 컬렉션 구성(영역별 수집대상) : 수집할 컬렉션 영역을 3~5개 정하고 컬렉션별로 대표적 기록을 나열
+
+[아카이빙계획서 샘플1](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample01_WH.pdf)
+[아카이빙계획서 샘플2](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample02_Superman.pdf)
+[아카이빙계획서 샘플3](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample03_vongvong.pdf)
+[아카이빙계획서 샘플4](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample04_Ambience.pdf)
+
+일정
+1) 아카이빙 계획 발표
+- 10/15 : 김o솔, 김o현, 박o은, 박o현, 심o영
+- 10/22 : 김o미, 민o수, 송o수, 임o진, 정o진
+
+2) 아카이빙 계획 발표
+- 12/03 : 김o미, 민o수, 송o수, 임o진, 정o진
+- 12/10 : 김o솔, 김o현, 박o은, 박o현, 심o영
+
 
 **토론.**
 - 아키비스트로서의 예술가
 - 왜 Omeka를 써야 하나
 
-## Week 2. Omeka 설치
+
+## Week 2. Omeka 설치 (10/8)
 
 1. 실습: Omeka.net 
 
@@ -54,7 +94,7 @@ Offered at 한국외국어대학교 Fall 2018
 - GitHub 리포지터리 만들기
 - GitHub 실습
 
-## Week 3. Omeka 실습 & 주제 발표
+## Week 3. Omeka 실습 & 주제 발표 (10/15)
 1. Omeka 실습 : 
 - Settings
 - Themes
@@ -64,7 +104,7 @@ Offered at 한국외국어대학교 Fall 2018
 
 2. Omeka 사례와 아카이빙 주제 발표 I
 
-## Week 4.Omeka: Plugins I
+## Week 4.Omeka: Plugins I (10/22)
 1. Omeka 실습 : 
 - CSV Import
 - Blog Shortcode
@@ -81,7 +121,7 @@ Offered at 한국외국어대학교 Fall 2018
 2. Omeka 사례와 아카이빙 주제 발표 II
 
 
-## Week 5.Omeka: Plugins II
+## Week 5.Omeka: Plugins II (10/29)
 - Derivative Images
 - Docs Viewer
 - Elasticsearch
@@ -95,7 +135,7 @@ Offered at 한국외국어대학교 Fall 2018
 - History Log
 - HTML5 Media
 
-## Week 6.Omeka: Plugins III
+## Week 6.Omeka: Plugins III (11/5)
 - Item Order
 - Item Relations
 - Neatline
@@ -103,21 +143,20 @@ Offered at 한국외국어대학교 Fall 2018
 - Reports
 - Scripto
 
-## Week 7.Omeka: Plugins IV
+## Week 7.Omeka: Plugins IV (11/12)
 Plugins IV
 
-## Week 8.Omeka: Plugins V
+## Week 8.Omeka: Plugins V (11/19)
 AvantRelationships
 Ngram
 Text Analysis
 
-## Week 9.Omeka: Curatescape
+## Week 9.Omeka: Curatescape (11/26)
 Curatescape 설치와 활용
 
-## Week 10.발표 I
-## Week 11.발표 II
-## Week 12.발표 III
-## Week 13.발표 평가와 토론
+## Week 10.발표 I (12/3)
+## Week 11.발표 II (12/10)
+## Week 12.평가와 토론 (12/17)
 
 
 ## Further Reading
