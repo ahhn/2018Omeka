@@ -32,9 +32,21 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - [Omeka Classic Showcase](https://omeka.org/classic/showcase/)
 - [아카이브랩](http://archivelab.co.kr)
 
-발표일정
+사례발표 일정
 - 10/15 : 김o솔, 김o현, 박o은, 박o현, 심o영
 - 10/22 : 김o미, 민o수, 송o수, 임o진, 정o진
+
+사례발표 주제
+- 김o솔, 
+- 김o현, 
+- 박o은, 
+- 박o현 : Making History: Transcribe 
+- 심o영
+- 김o미, 
+- 민o수, 
+- 송o수 : Our Marathon, The Boston Bombing Digital Archive
+- 임o진, 
+- 정o진
 
 참고사항
 - 10/8까지 주제명을 강사에게 제출
@@ -61,19 +73,9 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 일정
 
 1) 아카이빙 계획 발표(5분)
-- 10/15 : 
--- 김o솔, 
--- 김o현, 
--- 박o은, 
--- 박o현 : Making History: Transcribe 
--- 심o영
+- 10/15 : 김o솔, 김o현, 박o은, 박o현, 심o영
+- 10/22 : 김o미, 민o수, 송o수, 임o진, 정o진
 
-- 10/22 : 
--- 김o미, 
--- 민o수, 
--- 송o수 : Our Marathon, The Boston Bombing Digital Archive
--- 임o진, 
--- 정o진
 
 2) 아카이빙 결과 발표(20분)
 - 12/3 : 김o미, 민o수, 송o수, 임o진, 정o진
