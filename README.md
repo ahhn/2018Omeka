@@ -97,6 +97,8 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 
 ## Week 2. Omeka 설치 (10/8)
 
+[강의자료 링크](https://github.com/ahhn/2018Omeka/blob/master/lecture/week2)
+
 1. 실습: Omeka.net 
 
 2. AWS를 이용한 클라우드 서버 구축
