@@ -99,7 +99,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 
 [강의자료 링크](https://github.com/ahhn/2018Omeka/blob/master/lecture/week2)
 
-**1. 실습: Omeka.net**
+### 1. 실습: Omeka.net ###
 
 > [이용자 매뉴얼](https://info.omeka.net/manage-an-account/)
 
@@ -154,43 +154,31 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 
 
 
-**2. AWS를 이용한 클라우드 서버 구축**
+### 2. AWS를 이용한 클라우드 서버 구축 ###
+[강의자료: AWS EC2 웹서버에 아카이브시스템 구축하기](https://github.com/ahhn/2018Omeka/raw/master/lecture/AWS_v1.9.pdf)
 
 **Ubuntu Server 설치**
+**SSH Client(Putty) 설치**
 
 [![Video Label](/image/image_07.png)](https://www.youtube.com/watch?v=5bfKQrnUos0&index=4&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 
-**SSH Client(Putty) 설치**
+[![Video Label](/image/image_08.png)](https://www.youtube.com/watch?v=qhAM79x0SvQ&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf&index=9)
+
 
 **리눅스 명령어 실습**
 
 
-3. Omeka 설치
+### 3. Omeka 설치 ###
+[![Video Label](/image/image_09.png)](https://www.youtube.com/watch?v=4HUJtZNPtlQ&index=7&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 
-4. Filezilla 설치
 
-5. GitHub
+### 4. Filezilla 설치 ###
+
+### 5. GitHub ###
 - GitHub 소개
 - GitHub 리포지터리 만들기
 - GitHub 실습
 
-
-
-
-
-2. AWS를 이용한 클라우드 서버 구축
-- Ubuntu Server 설치
-- SSH Client(Putty) 설치
-- 리눅스 명령어 실습
-
-3. Omeka 설치
-
-4. Filezilla 설치
-
-5. GitHub
-- GitHub 소개
-- GitHub 리포지터리 만들기
-- GitHub 실습
 
 ## Week 3. Omeka 실습 & 주제 발표 (10/15)
 1. Omeka 실습 : 
