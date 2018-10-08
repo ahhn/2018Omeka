@@ -40,11 +40,11 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 김o솔, 
 - 김o현, 
 - 박o은, 
-- 박o현 : Making History: Transcribe 
+- 박o현 : [Making History: Transcribe](http://www.virginiamemory.com/transcribe/)
 - 심o영
 - 김o미, 
 - 민o수, 
-- 송o수 : Our Marathon, The Boston Bombing Digital Archive
+- 송o수 : [Our Marathon, The Boston Bombing Digital Archive](https://marathon.library.northeastern.edu/)
 - 임o진, 
 - 정o진
 
@@ -196,5 +196,5 @@ Curatescape 설치와 활용
 
 ### Instructor information
  
-[Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn founded the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives.
+[Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn co-found the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives.
  
