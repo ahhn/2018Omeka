@@ -140,7 +140,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 2. Omeka 사례와 아카이빙 주제 발표 II
 
 
-## Week 5.Omeka: Plugins II (10/29)
+## Week 5.Omeka: Plugins II (11/5)
 - Derivative Images
 - Docs Viewer
 - Elasticsearch
@@ -154,7 +154,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - History Log
 - HTML5 Media
 
-## Week 6.Omeka: Plugins III (11/5)
+## Week 6.Omeka: Plugins III (11/12)
 - Item Order
 - Item Relations
 - Neatline
@@ -162,20 +162,17 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - Reports
 - Scripto
 
-## Week 7.Omeka: Plugins IV (11/12)
-Plugins IV
-
-## Week 8.Omeka: Plugins V (11/19)
+## Week 7.Omeka: Plugins IV (11/19)
 AvantRelationships
 Ngram
 Text Analysis
 
-## Week 9.Omeka: Curatescape (11/26)
+## Week 8.Omeka: Curatescape (11/26)
 Curatescape 설치와 활용
 
-## Week 10.발표 I (12/3)
-## Week 11.발표 II (12/10)
-## Week 12.평가와 토론 (12/17)
+## Week 9.발표 I (12/3)
+## Week 10.발표 II (12/10)
+## Week 11.평가와 토론 (12/17)
 
 
 ## Further Reading
