@@ -18,6 +18,11 @@ Offered at 한국외국어대학교 Fall 2018
 
 [강의자료4. Omeka v2.6.1 설치 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
 
+[강의자료5-1. Omeka 엑셀목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.xlsx)
+
+[강의자료5-2. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
+
+
 ## 과제 안내 ##
 
 ### 1. Omeka 사례 분석 ###
