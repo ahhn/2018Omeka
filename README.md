@@ -42,10 +42,10 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 박o은 : [911 Living Memorial Digital Archive](http://www.ils652.org/omeka/)
 - 박o현 : [Making History: Transcribe](http://www.virginiamemory.com/transcribe/)
 - 심o영 : [Mill Girls in Nineteenth-Century Print](http://americanantiquarian.org/millgirls/)
-- 김o미 : 
+- 김o미 : [Shakespeare 400](http://216.48.92.16/omeka1/shakespeare400/)
 - 민o수 :
 - 송o수 : [Our Marathon, The Boston Bombing Digital Archive](https://marathon.library.northeastern.edu/)
-- 임o진 :
+- 임o진 : [New Roots/Neuva Raices](https://newroots.lib.unc.edu/)
 - 정o진 : 
 
 참고사항
