@@ -191,7 +191,29 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 2. Omeka 사례와 아카이빙 주제 발표 I
 
 ## Week 4.Omeka: Plugins I (10/22)
-1. Omeka 실습 : 
+**1. Omeka Root 관리자 설정
+
+$ sudo passwd root
+
+패스워드 입력 (엔터)
+패스워드 재입력 (엔터)
+
+$ su -
+
+패스워드 입력 후 엔터
+
+$ sudo cp /home/ubuntu/.ssh/authorized_keys /root/.ssh
+
+$ sudo service ssh restart
+
+끝
+
+**putty 설치 : [https://www.putty.org/](https://www.putty.org/)
+
+**Filezilla 설치 : [https://filezilla-project.org/](https://filezilla-project.org/)
+
+
+**2. Omeka 실습 : 
 - CSV Import
 - Blog Shortcode
 - Bulk Metadata editor
@@ -204,7 +226,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - Corrections
 - CSV Export Format
 
-2. Omeka 사례와 아카이빙 주제 발표 II
+**3. Omeka 사례와 아카이빙 주제 발표 II
 
 
 ## Week 5.Omeka: Plugins II (11/5)
