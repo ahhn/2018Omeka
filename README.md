@@ -42,7 +42,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 10/29 : 김o미, 민o수, 송o수, 임o진, 정o진
 
 사례발표 주제
-- 김o솔 :
+- 김o솔 : [CLIO2WEB](https://clio2web.uclouvain.be/)
 - 김o현 : [Preserve The Baltimore Uprising 2015 Archive Project](https://baltimoreuprising2015.org/)
 - 박o은 : [911 Living Memorial Digital Archive](http://www.ils652.org/omeka/)
 - 박o현 : [Making History: Transcribe](http://www.virginiamemory.com/transcribe/)
@@ -51,7 +51,7 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - 민o수 :
 - 송o수 : [Our Marathon, The Boston Bombing Digital Archive](https://marathon.library.northeastern.edu/)
 - 임o진 : [New Roots/Neuva Raices](https://newroots.lib.unc.edu/)
-- 정o진 : 
+- 정o진 : [Bracero History Archive](http://braceroarchive.org/)
 
 참고사항
 - 10/8까지 주제명을 강사에게 제출
