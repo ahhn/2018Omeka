@@ -196,6 +196,19 @@ Omeka 프로젝트 중 하나를 선택하여 분석하기 (5~10분 발표)
 - GitHub 리포지터리 만들기
 - GitHub 실습
 
+### 6. Root 관리자 설정
+### Root 관리자로 로그인 설정방법
+
+$ sudo passwd root
+
+패스워드 입력 후 엔터
+
+$ sudo service ssh restart
+
+$ sudo cp /home/ubuntu/.ssh/authorized_keys /root/.ssh
+
+$ sudo service ssh restart
+
 
 ## Week 3. Omeka 실습 & 주제 발표 (10/15)
 1. Omeka 실습 : 
@@ -259,6 +272,7 @@ $ sudo service ssh restart
 - Hide Elements
 - History Log
 - HTML5 Media
+
 
 ## Week 6.Omeka: Plugins III (11/12)
 - Item Order
